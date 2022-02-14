@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejercicio 1.3</string>
+    <string name="app_nombre">Nombre</string>
+    <string name="app_apellidos">Apellidos</string>
+    <string name="app_edad">Edad</string>
+    <string name="app_correo">Correo</string>
+    <string name="app_direccion">Direccion</string>
+</resources>
